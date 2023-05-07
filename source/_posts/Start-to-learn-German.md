@@ -1,5 +1,5 @@
 ---
-title: Start to learn Germany
+title: Start to learn German
 date: 2023-05-06 09:41:19
 tags: [language, germany, personal]
 ---

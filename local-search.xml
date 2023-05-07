@@ -4,7 +4,26 @@
   
   
   <entry>
-    <title>Start to learn Germany</title>
+    <title>Mac is connected to Wi-Fi but not working</title>
+    <link href="/2023/05/07/Mac-is-connected-to-wifi-but-not-working/"/>
+    <url>/2023/05/07/Mac-is-connected-to-wifi-but-not-working/</url>
+    
+    <content type="html"><![CDATA[<p>Today my MacBook crashed. I had no choice but to restart it by pressing and holding the power button. When it was ready, I found that I couldn’t access the Internet anymore despite being connected to the Wi-Fi. I tried the self-diagnosis but to no avail. After some troubleshooting, I found a way to refresh the Wi-Fi setting by simply deleting and recreating it. To do so, open the network tab and right-click the Wi-Fi in the System Settings, then choose to delete the Wi-Fi service. Then click the button at the bottom (with three dots on it) to create a new Wi-Fi service. That’s it. Hopefully, your network will be restored.</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>[object Object]</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Start to learn German</title>
     <link href="/2023/05/06/Start-to-learn-German/"/>
     <url>/2023/05/06/Start-to-learn-German/</url>
     

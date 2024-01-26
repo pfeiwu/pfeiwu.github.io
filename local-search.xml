@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>PalWorld Server And Issues</title>
+    <link href="/2024/01/26/PalWorld-Server-And-Issues/"/>
+    <url>/2024/01/26/PalWorld-Server-And-Issues/</url>
+    
+    <content type="html"><![CDATA[<p>Recently I’m obsessed with a game called PalWorld. It’s a game that is similar to Pokémon, but with guns and more<br>realistic graphics.<br>It has a big open world, you can build your own base and craft items, fight pals(PalWorld’s version of Pokémon), or you<br>can catch pals and let them fight for you or do some work for you.<br>Like other crafting games, it’s always more fun to play with friends, to do so, you can start a multiplayer game and<br>then invite your friends to join, which can take up to 4 players.<br>If you want more people to join, you need to start a dedicated server. Firstly I deploy a Linux version, however, I<br>found it was buggy, so I switched to Windows version. My server is on the cloud, with 4 cores and 8GB RAM. It’s not a<br>powerful server, but it’s enough for a small group of people to play together.<br>It seems like the server program has an issue that it will crash after running for a while because of memory leak. So I<br>wrote a script to monitor the server and restart it when it crashes, and I open-sourced it on GitHub. </p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>game</tag>
+      
+      <tag>PalWorld</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Mac is connected to Wi-Fi but not working</title>
     <link href="/2023/05/07/Mac-is-connected-to-wifi-but-not-working/"/>
     <url>/2023/05/07/Mac-is-connected-to-wifi-but-not-working/</url>
